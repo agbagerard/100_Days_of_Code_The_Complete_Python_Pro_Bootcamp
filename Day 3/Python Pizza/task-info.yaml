@@ -15,5 +15,8 @@ files:
   - name: solution.py
     visible: true
     learner_created: false
-status: Unchecked
+  - name: testing_copy.py
+    visible: true
+    learner_created: true
+status: Solved
 record: -1
